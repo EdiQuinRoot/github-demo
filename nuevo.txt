@@ -1,0 +1,2 @@
+Demostración de inicio rápido de GitD
+Demostración de inicio rápido de Git
